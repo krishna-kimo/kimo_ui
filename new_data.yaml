@@ -1,0 +1,13 @@
+### New format for data.yaml
+
+Machine Learning:
+        - topic: topic_1
+          keywords:
+                - Machine Learning
+                - Natural Language Processing
+                - Whats up MF
+        - topic: topic_2
+          keywords:
+                  - Keyword_3
+                  - keyword_4
+                  - keyword_5
